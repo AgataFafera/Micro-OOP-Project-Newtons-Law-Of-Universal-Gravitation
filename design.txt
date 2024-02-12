@@ -1,0 +1,21 @@
+Title: Newton's law of universal gravitation
+
+Description: An app that gets as input the masses of two objects and the distance beetwen the centres 
+of their masses. Then it calculates the force beetwen the masses and returns the pdf file with all variables 
+and the result. 
+
+Objects: 
+            Equation:
+            mass of object 1
+            mass of object 2 
+            constant of gravitation
+            distance 
+            def calculate(mass of object 1, mass of object 2, constant of gravitation, distance)
+            return force 
+            
+         PdfReport:
+            filename
+            generate(equation)
+            
+            
+          While loop to ask user for variables and file name
