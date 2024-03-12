@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 class Equation: 
     """
     Object that cointains all variables needed for the newton's equation 
