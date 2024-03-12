@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from equation import Equation
 from report import PdfReport
   
@@ -23,12 +20,3 @@ while True:
 
     except ValueError: 
         print("Provide a valid input. Try again.")
-        
-    
-
-
-# In[ ]:
-
-
-
-
